@@ -11,4 +11,5 @@ Send alert text messages (SMS) according to weather data, using Twilio API.
   - Twilio credentials: <img width="166" alt="Screenshot 2024-11-19 at 18 55 18" src="https://github.com/user-attachments/assets/01e26baa-ec11-4d09-9902-0e5b32c284db">
   - OpenWeatherMap: <img width="247" alt="Screenshot 2024-11-19 at 18 56 12" src="https://github.com/user-attachments/assets/ba0901a6-a0f8-4058-8d06-608837509bf9">
   - In the variable "parameters", in "lat" put your latitude, in "lon" put your longitude, in "cnt" is the amount of data from the api and in "appid" your key.
-
+- Finally, you will need to change the numbers and if you want, the message:
+  -  <img width="321" alt="Screenshot 2024-11-19 at 19 08 30" src="https://github.com/user-attachments/assets/478e16ab-2ce0-4dc5-be62-ccd4ee69d225">
